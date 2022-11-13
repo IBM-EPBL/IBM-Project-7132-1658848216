@@ -12,4 +12,4 @@ News Tracker Application
 | Team Leader   |    **Roshaan JS**   |
 | Team Member 1 |   **Vishnuvardhan B**  |
 | Team Member 2 |  **Rohith R**  |
-| Team Member 3 | **Mohammed Fadil S** |
+| Team Member 3 | **Mohamed Fadil S** |
